@@ -37,3 +37,6 @@ Selama arah tersebut sama, point score akan terus +0.
 
 Dan bertambah kembali +1 jika arah benda berubah.
 ![4-down](https://user-images.githubusercontent.com/101118033/233864675-de66158d-ef14-41c2-a195-b512415c0527.png)
+
+# Demo
+https://user-images.githubusercontent.com/101118033/233864725-4eac837b-6528-4c29-8693-b4ce1429debe.mp4
