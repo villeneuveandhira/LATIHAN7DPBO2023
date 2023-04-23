@@ -23,17 +23,17 @@ dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka
 Aamiin.
 
 # Documentation
-Keadaan awal point score sedang berada pada 6.
-![start](https://user-images.githubusercontent.com/101118033/233863456-6b2aef25-1843-4f4d-ae3e-e983ccaa4e27.png)
+Keadaan awal point score sedang berada pada 0.
+![start](https://user-images.githubusercontent.com/101118033/233864642-3ed24215-68f9-40ca-ad94-38ef15591999.png)
 
 Point score akan bertambah +1 jika bergerak dengan salah satu arah selama tidak berubah arah.
-![1-up](https://user-images.githubusercontent.com/101118033/233863505-ed7350bd-3ccb-425d-9f66-6447e7a1bbef.png)
+![1-up](https://user-images.githubusercontent.com/101118033/233864660-eddb3998-5cfc-4824-966f-afed2912e9ff.png)
 
 Jika berubah arah maka point score akan bertambah lagi.
-![2-right](https://user-images.githubusercontent.com/101118033/233863506-08e30225-72e5-440d-8f64-6c8c6efab052.png)
+![2-right](https://user-images.githubusercontent.com/101118033/233864664-83f893ee-f0fb-4bfb-91c6-92ab573fcfa6.png)
 
 Selama arah tersebut sama, point score akan terus +0.
-![3-left](https://user-images.githubusercontent.com/101118033/233863507-51711af0-32b9-4cb8-b056-353f59e4f6cd.png)
+![3-left](https://user-images.githubusercontent.com/101118033/233864669-d2274f75-271f-4526-aac5-5bd73933c059.png)
 
 Dan bertambah kembali +1 jika arah benda berubah.
-![4-down](https://user-images.githubusercontent.com/101118033/233863509-7d633775-eea2-45ef-8d9c-f55f2a72086e.png)
+![4-down](https://user-images.githubusercontent.com/101118033/233864675-de66158d-ef14-41c2-a195-b512415c0527.png)
