@@ -11,7 +11,7 @@ Modifikasi kode yang sudah diberikan, dengan ketentuan sebagai berikut:<br />
 - Deadline: 25 April 2023 (Extended).
 - Tidak perlu menggunakan UML selama desain dan penamaan file masih jelas serta mengikuti contoh kode yang diberikan.
 - Program dikumpulkan pada repository publik GitHub dengan nama “LP7...DPBO2023”, dengan … diisi kelas (C1/C2).
-- Struktur folder:
+- Struktur folder:<br />
     &nbsp; -> src<br />
     &nbsp; -> Screenshot / Video<br />
     &nbsp; -> ReadME.md<br />
